@@ -1,5 +1,5 @@
 {
-    "name":"test recipe",
+    "name":"robier/test-recipe",
     "description":"test recipe",
     "type": "library",
     "require":{
