@@ -1,0 +1,14 @@
+{
+    "name":"test recipe",
+    "description":"test recipe",
+    "type": "library",
+    "require":{
+    },
+    "recommend":{
+        "ext-zip":"*"
+    },
+    "autoload":{
+        "psr-0":{
+        }
+    }
+}
