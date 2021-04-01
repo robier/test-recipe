@@ -7,6 +7,9 @@
         ".env.test": ".env.test",
         "phpunit.xml.dist": "phpunit.xml.dist"
     },
+    "copy-from-package": {
+        "some-file.php": "%PUBLIC_DIR%/some-file.php"
+    },
     "composer-scripts": {
         "cache:clear": "symfony-cmd",
         "assets:install --symlink --relative %PUBLIC_DIR%": "symfony-cmd"
